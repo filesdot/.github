@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🎨 Ricing Inspiration & Showcases
+    url: https://github.com/{{ORG_NAME}}/library/discussions/categories/showcase
+    about: Share your setup, get feedback, or browse community configs
+  - name: 💬 Q&A & Help
+    url: https://github.com/{{ORG_NAME}}/library/discussions/categories/q-a
+    about: Ask questions about tools, configs, or the contribution process
+  - name: 📜 Code of Conduct & Guidelines
+    url: https://github.com/{{ORG_NAME}}/library/blob/main/CODE_OF_CONDUCT.md
+    about: Community standards and reporting procedures
+  - name: 🤖 Automated Link Checker (Future)
+    url: https://github.com/{{ORG_NAME}}/library/issues?q=label%3A%22broken-link%22
+    about: Track and resolve dead links (auto-triaged)
