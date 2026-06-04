@@ -1,7 +1,10 @@
-# 🔐 Security Policy
+<div align="center">
+   <img width="640" height="348" alt="dotfiles-banner" src="https://github.com/user-attachments/assets/db0daa14-5a21-420e-9d03-a9fd795d38a0" />
 
-## 📜 Scope
-This project is a **curated list of links, themes, and configuration resources**. As such, "security vulnerabilities" typically fall into one of these categories:
+<sub>This project is a **curated list of links, themes, and configuration resources**.</sub>
+   </br>As such, "security vulnerabilities" typically fall into one of these categories:
+</div>
+
 - 🚩 Malicious or phishing links submitted to the list
 - 🔑 Hardcoded secrets, API keys, or personal data in example configs
 - 🦠 Compromised upstream repositories or themes with supply-chain risks
@@ -9,7 +12,7 @@ This project is a **curated list of links, themes, and configuration resources**
 
 ## 📬 Reporting a Vulnerability
 If you discover a security-related concern, **please do not open a public issue**. Instead:
-1. Email us at: `filingdot@gmail.com`
+1. Email us at: **[filingdot@gmail.com](mailto:filingdot@gmail.com)**
 2. Include:
    - URL/file location of the concern
    - Description of the risk
