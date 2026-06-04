@@ -6,13 +6,14 @@
 
   <img width="640" height="348" alt="dotfiles-banner" src="https://github.com/user-attachments/assets/db0daa14-5a21-420e-9d03-a9fd795d38a0" />
 
-  <sub>Thank you for considering contributing to this list! Your help makes the Linux ricing community stronger. 🎨✨</sub>
-
-</div>
+  <sub>Welcome to Filesdot GitHub Organizations!!1</sub>
 
 <br/>
 
 # Contributing to /filesdot/ 🤝
+[![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat.](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat.-2563eb?style=flat-square&logo=databricks&logoColor=ffffff)](https://dash.domain.digitalplat.org/signup?ref=2gl4vaLAtT)
+
+</div>
 
 > *Your contributions help build the ultimate Linux customization resource*
 
